@@ -10,11 +10,9 @@ const bigger = () => {
         return numberTwo; 
     }
 }
-
 console.log(bigger()); 
 
 // 2 find the largest word
-
 const avengers = ['Hulk', 'Thor', 'IronMan', 'Captain A.', 'Spiderman', 'Captain M.'];
 
 function findLongestWord(param) {
@@ -29,7 +27,6 @@ function findLongestWord(param) {
 findLongestWord(avengers);
 
 // sum 
-
 const numbers = [1, 2, 3, 5, 45, 37, 58];
 
 const sumArray = (caja) => {

@@ -2,7 +2,7 @@
 
 // A 
 // simple structure (i have to know is usual consume promise not created).
-const promise = new Promise((resolve, reject) => {
+const promise3 = new Promise((resolve, reject) => {
     // i want to executed in any time 
     setTimeout(() =>{
         // say the function 
@@ -12,7 +12,7 @@ const promise = new Promise((resolve, reject) => {
 }); 
 
 // to consume the promise
-promise.then(() =>{
+promise3.then(() =>{
     console.log('i get it'); 
 }); 
 
