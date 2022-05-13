@@ -1,4 +1,4 @@
-# Some practice with basics Js
+## Some practice with basics Js
 
 * Async Await
 * Functions
